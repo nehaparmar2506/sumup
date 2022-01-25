@@ -8,6 +8,8 @@ public class SumupApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SumupApplication.class, args);
+
+		
 	}
 
 }
